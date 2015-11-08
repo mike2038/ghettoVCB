@@ -2,6 +2,7 @@
 # Created Date: 11/17/2008
 # http://www.virtuallyghetto.com/
 # http://communities.vmware.com/docs/DOC-8760
+# ghettoVCB-mm.sh - Mikes in production version
 
 ##################################################################
 #                   User Definable Parameters
